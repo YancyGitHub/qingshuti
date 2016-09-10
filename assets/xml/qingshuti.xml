@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font displayname="嵐-情书体">
+	<sans>
+		<file>
+			<filename>qingshuti.ttf</filename>
+			<droidname>DroidSans.ttf</droidname>
+		</file>
+		<file>
+			<filename>qingshuti.ttf</filename>
+			<droidname>DroidSans-Bold.ttf</droidname>
+		</file>
+
+	</sans>
+</font>
